@@ -1,0 +1,6 @@
+C:/Users/umdim/CLionProjects/MyGame/cmake-build-debug/CMakeFiles/lint.dir
+C:/Users/umdim/CLionProjects/MyGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/umdim/CLionProjects/MyGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/umdim/CLionProjects/MyGame/cmake-build-debug/src/CMakeFiles/MyGame.dir
+C:/Users/umdim/CLionProjects/MyGame/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/umdim/CLionProjects/MyGame/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

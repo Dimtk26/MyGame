@@ -13,6 +13,7 @@ class Tile {
   const char *color;
 
   Tile(int x, int y, int symbol, const char *color);
+    std::vector<Tile *> horizontalRiver(std::vector<Tile *> &tiles,int size, int x, int y);
     std::vector<Tile *> horizontalWall(std::vector<Tile *> &tiles,int size, int x, int y);
     std::vector<Tile *> verticalWall(std::vector<Tile *> &tiles,int size, int x, int y);
 };

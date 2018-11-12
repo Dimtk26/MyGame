@@ -5,8 +5,11 @@
 #ifndef GAME_PLAYERMOVEMENTSYSTEM_H
 #define GAME_PLAYERMOVEMENTSYSTEM_H
 
+
 #include <game/System.h>
 #include <game/Tile.h>
+
+
 
 class PlayerMovementSystem : public System {
   Tile *const player;
@@ -18,6 +21,8 @@ class PlayerMovementSystem : public System {
   bool isWalkableD();
   bool isWalkableL();
   bool isWalkableR();
+  void inRiverWalk();
+
   ~PlayerMovementSystem() override = default;
 };
 
